@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Diego",
+      "id": 1
+    },
+    {
+      "name": "Dani",
+      "id": 2
+    },
+    {
+      "name": "Thiago",
+      "id": 3
+    },
+    {
+      "name": "Marcos",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Joseph"
+    },
+    {
+      "name": "Vini",
+      "id": 6
+    },
+    {
+      "name": "Cleiton",
+      "id": 7
+    },
+    {
+      "name": "Bento",
+      "id": 8
+    },
+    {
+      "name": "Robson",
+      "id": 9
+    }
+  ]
+}
